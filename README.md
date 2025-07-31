@@ -22,4 +22,8 @@ This project demonstrates the use of **React.js** to build a dynamic and interac
 1. Clone the repository:
 2. npm install(instal dependencies)
 3. npm start(start the development server)
-4.  The app will be available at  http://localhost:3000  
+4.  The app will be available at  http://localhost:3000
+## Author
+INTERNEE MUHWEZI ASAPH
+UTAMU STUDENT 
+BACHELOR OF SCIENCE COMPUTER SCIENCE  
