@@ -1,7 +1,7 @@
 # Internship-week-4 - React.js basics
 This is my fourth week  internship GitHub repository 
 ## Project: React to-do list
-This project demonstrates the use of **React.js** to build a dynamic and interactive To-Do application. It allows users to add, delete, and mark tasks as complete — showcasing key concepts such as JSX, props, state, and event handling.
+This project demonstrates the use of **React.js** to build a dynamic and interactive to-do application. It allows users to add, delete, and mark tasks as complete — showcasing key concepts such as JSX, props, state, and event handling.
 ## Objectives
 - Understand and apply **React component-based architecture**
 - Use **JSX** to create React elements
