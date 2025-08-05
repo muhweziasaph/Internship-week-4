@@ -1,14 +1,25 @@
 # Internship-week-4 - React.js basics
 This is my fourth week  internship GitHub repository 
-## Project: React to-do list
-This project demonstrates the use of **React.js** to build a dynamic and interactive to-do application. It allows users to add, delete, and mark tasks as complete — showcasing key concepts such as JSX, props, state, and event handling.
-## Objectives
-- Understand and apply **React component-based architecture**
-- Use **JSX** to create React elements
-- Manage application state using **React Hooks (`useState`)**
-- Pass data between components using **props**
-- Handle form inputs and UI events dynamically
-- Build a fully functional React app with interactivity
+## Main project: React to-do list application.
+This repository contains the progression of my Week 4 internship React projects, including:
+- Day 2: Simple Calculator App
+- Day 3: Counter App
+- Day 4–6: To-Do List App (UI to full functionality)
+## Projects Breakdown
+### Day 1: React App Setup
+- Objective: Learn how to create a React project using Create React App.
+- Tool: VS Code with Node.js
+- No actual app yet, just setup.
+### Day 2: Calculator App
+- A React app with two number inputs and buttons for `+`, `-`, `*`, `/`.
+- Uses `useState` and event handling.
+### Day 3: Counter App
+- Counter with **Increment**, **Decrement**, and **Reset**.
+- Great practice for `useState` and button events.
+### Day 4–6: To-Do App Progress
+- Day 4: To-Do App UI only
+- Day 5: Added Delete & Toggle functionality(final app) plus styling
+- Day 6:Deployment
 ## Technologies Used
 - React.js (with `create-react-app`)
 - JSX
@@ -26,4 +37,4 @@ This project demonstrates the use of **React.js** to build a dynamic and interac
 ## Author
 INTERNEE MUHWEZI ASAPH
 UTAMU STUDENT 
-BACHELOR OF SCIENCE COMPUTER SCIENCE  
+BACHELOR OF SCIENCE COMPUTER SCIENCE
