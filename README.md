@@ -11,17 +11,17 @@ This repository contains the progression of my Week 4 internship React projects,
 - Tool: VS Code with Node.js
 - No actual app yet, just setup.
 ### Day 2: Calculator App
-- A React app with two number inputs and buttons for `+`, `-`, `*`, `/`.
-- Uses `useState` and event handling.
+- A React app with two number inputs and buttons for +, -, *, /.
+- Uses useState and event handling.
 ### Day 3: Counter App
 - Counter with **Increment**, **Decrement**, and **Reset**.
-- Great practice for `useState` and button events.
+- Great practice for useState and button events.
 ### Day 4–6: To-Do App Progress
 - Day 4: To-Do App UI only
 - Day 5: Added Delete & Toggle functionality(final app) plus styling
 - Day 6:**Deployment**
 ## Technologies Used
-- React.js (with `create-react-app`)
+- React.js (with create-react-app)
 - JSX
 - Node.js(for environment) 
 - CSS (for styling)
