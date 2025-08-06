@@ -19,7 +19,7 @@ This repository contains the progression of my Week 4 internship React projects,
 ### Day 4–6: To-Do App Progress
 - Day 4: To-Do App UI only
 - Day 5: Added Delete & Toggle functionality(final app) plus styling
-- Day 6:Deployment
+- Day 6:**Deployment**
 ## Technologies Used
 - React.js (with `create-react-app`)
 - JSX
