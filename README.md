@@ -26,7 +26,7 @@ This repository contains the progression of my Week 4 internship React projects,
 - Node.js(for environment) 
 - CSS (for styling)
 - Git and Github
-## How to View/Run the Project
+## How to View/Run the Projects locally
 ### Prerequisites:
 - Node.js and npm installed
 ### Steps:
@@ -34,6 +34,8 @@ This repository contains the progression of my Week 4 internship React projects,
 2. npm install(instal dependencies)
 3. npm start(start the development server)
 4.  The app will be available at  http://localhost:3000
+## How to View/Run the deployed main project to do list app live:
+- https://asaph-todo-list-app.netlify.app/
 ## Author
 INTERNEE MUHWEZI ASAPH
 UTAMU STUDENT 
